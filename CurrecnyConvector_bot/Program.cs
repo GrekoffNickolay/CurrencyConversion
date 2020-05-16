@@ -27,7 +27,7 @@ namespace CurrecnyConvector_bot
         /// </summary>
         private static Dictionary<int, int> _stateProvider = new Dictionary<int, int>();
         // Токен бота
-        private static string token = "1184558923:AAGRXli_WDTzHV45L2ZRMkOONLiCi2wgJu8";
+        private static string token = "";
 
         // Дата начала периода
         private static  string startDate;
